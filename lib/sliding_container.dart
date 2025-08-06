@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'sliding_card.dart';
-import 'model.dart';
 import 'data.dart';
 
 

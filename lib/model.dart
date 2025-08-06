@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+
 
 class ScenicSpotModel {
   final String location;

@@ -3,7 +3,6 @@ import 'dart:ui';
 import 'model.dart';
 import 'package:flutter/material.dart';
 import 'dart:math' as math;
-import 'data.dart';
 
 class SlidingCard extends StatelessWidget {
 
